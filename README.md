@@ -26,7 +26,7 @@ cd qwen_fast/packages/openpi-client && pip install -e . && cd ../../..
 
 ### 2. OXE Pre-trained Checkpoints
 We provide checkpoints of ContextVLA pretrained on <a href="https://github.com/dusty-nv/openvla/blob/main/prismatic/vla/datasets/rlds/oxe/mixtures.py" target="_blank">OXE Magic Soup</a> in the below. If the link is blocked, please contact me.
-- <a href="https://huggingface.co/huiwon/ContextVLA-3B-Qwen2.5VL-FAST" target="_blank">ContextVLA-3B-Qwen2.5VL-FAST</a> (180K iter pretrained)
+- <a href="https://huggingface.co/huiwon/ContextVLA-3B-Qwen2.5VL-FAST" target="_blank">ContextVLA-3B-Qwen2.5VL-FAST</a> (180K iter pretrained with batch size of 128)
 
 ### 3. Fine-tuning
 E.g., Fine-tuning ContextVLA on Libero dataset
