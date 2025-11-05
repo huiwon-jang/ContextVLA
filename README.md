@@ -50,4 +50,3 @@ TODO
 
 ### Acknowledgement
 This code is mainly built upon <a href="https://github.com/Physical-Intelligence/openpi/tree/main" target="_blank">Physical-intelligence/openpi</a>. We also appreciate <a href="https://github.com/declare-lab/nora" target="_blank">NORA</a> for providing pre-training code implementation using OXE Magic Soup dataset.
-# ContextVLA
